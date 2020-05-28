@@ -8,6 +8,7 @@ export const HEROES: Hero[]=[
         id:25,
         name:"Hector"
     },
+    
     {
         id:27,name:"Elijah"
     },
